@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Inception",
+        "actors": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page",
+            "Tom Hardy",
+            "Cillian Murphy"
+        ],
+        "genres": [
+            "Sci-Fi",
+            "Action",
+            "Thriller",
+            "Mystery"
+        ]
+    },
+    {
+        "name": "The Dark Knight",
+        "actors": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart",
+            "Michael Caine",
+            "Morgan Freeman"
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "name": "Interstellar",
+        "actors": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain",
+            "Michael Caine",
+            "Ellen Burstyn"
+        ],
+        "genres": [
+            "Sci-Fi",
+            "Adventure",
+            "Drama",
+            "Mystery"
+        ]
+    },
+    {
+        "name": "Shutter Island",
+        "actors": [
+            "Leonardo DiCaprio",
+            "Mark Ruffalo",
+            "Ben Kingsley",
+            "Max von Sydow",
+            "Michelle Williams"
+        ],
+        "genres": [
+            "Mystery",
+            "Thriller",
+            "Drama"
+        ]
+    },
+    {
+        "name": "The Prestige",
+        "actors": [
+            "Christian Bale",
+            "Hugh Jackman",
+            "Scarlett Johansson",
+            "Michael Caine",
+            "David Bowie"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "name": "Gravity",
+        "actors": [
+            "Sandra Bullock",
+            "George Clooney",
+            "Ed Harris"
+        ],
+        "genres": [
+            "Sci-Fi",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "name": "Avatar",
+        "actors": [
+            "Sam Worthington",
+            "Zoe Saldana",
+            "Sigourney Weaver",
+            "Stephen Lang",
+            "Michelle Rodriguez"
+        ],
+        "genres": [
+            "Sci-Fi",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "name": "The Revenant",
+        "actors": [
+            "Leonardo DiCaprio",
+            "Tom Hardy",
+            "Domhnall Gleeson",
+            "Will Poulter",
+            "Forrest Goodluck"
+        ],
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Thriller",
+            "Western"
+        ]
+    },
+    {
+        "name": "Inglourious Basterds",
+        "actors": [
+            "Brad Pitt",
+            "Diane Kruger",
+            "Christoph Waltz",
+            "Michael Fassbender",
+            "Eli Roth"
+        ],
+        "genres": [
+            "Adventure",
+            "Drama",
+            "War",
+            "Action"
+        ]
+    },
+    {
+        "name": "The Martian",
+        "actors": [
+            "Matt Damon",
+            "Jessica Chastain",
+            "Kristen Wiig",
+            "Jeff Daniels",
+            "Chiwetel Ejiofor"
+        ],
+        "genres": [
+            "Sci-Fi",
+            "Adventure",
+            "Drama"
+        ]
+    }
+]
